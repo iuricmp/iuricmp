@@ -5,7 +5,7 @@
 
 ### Hi there, 👋 I'm Iuri Pereira, full stack engineer 🇧🇷 🇵🇹 🇪🇺 🇺🇸 🌎
 
-I've been working on private repos for startups since 2006. I have experience in implementing protocols, building cutting-edge applications and maintaining multiple microservices.
+I've been working on startups since 2006. I have experience in implementing protocols, building cutting-edge applications and maintaining multiple microservices.
 
 Most of my time I'm building using the JavaScript ecosystem (React, Node.js, React Native, ...) but also have experience with several programming languages.
 
